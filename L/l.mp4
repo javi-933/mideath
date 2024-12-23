@@ -1,0 +1,1294 @@
+  <!doctype html>
+<html lang="es" class="es">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+      <meta name="robots" content="index, follow">
+  
+  <title>Descargar videos de YouTube - SaveFrom.net</title>
+  <meta name="description" content="¡Guarde videos de YouTube con SaveFrom de la manera más rápida y fácil! Su excelente funcionalidad te permite descargar de YouTube cuando quieras. Con nuestro descargador de videos de YouTube, puede obtener su video en HD, FullHD, MP4, WEBM, 3GP o cualquier otro formato.">
+    <meta property="og:type" content="website" />
+  <meta property="og:title" content="Descargar videos de YouTube - SaveFrom.net" />
+  <meta property="og:description" content="¡Guarde videos de YouTube con SaveFrom de la manera más rápida y fácil! Su excelente funcionalidad te permite descargar de YouTube cuando quieras. Con nuestro descargador de videos de YouTube, puede obtener su video en HD, FullHD, MP4, WEBM, 3GP o cualquier otro formato." />
+  <meta property="og:image" content="https://es.savefrom.net/img/extension/icon_128_2.png" />
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=5.0, shrink-to-fit=no" name="viewport">
+    <script>
+    document.documentElement.className +=
+      (("ontouchstart" in document.documentElement) ? ' touch' : ' no-touch');
+  </script>
+  <link rel="preload" href="/font/fonts.css" as="style">
+  <link rel="stylesheet" href="/font/fonts.css" media="print" onload="this.media='all'" >
+
+      <link rel="stylesheet" href="/build/css/styles.css?h=e275ce2646">
+  
+
+  <link rel="manifest" href="/manifest.json">
+  <link rel="shortcut icon" href="/favicon.ico">
+  <link rel="image_src" href="/img/icon_100.png">
+
+  <script>
+    var _isProd = 1;
+  </script>
+
+<link rel="alternate" hreflang="ar" href="https://ar.savefrom.net/1-youtube-video-downloader-171.html">
+<link rel="alternate" hreflang="de" href="https://de.savefrom.net/1-youtube-downloader-549ib/">
+<link rel="alternate" hreflang="x-default" href="https://en1.savefrom.net/1-youtube-video-downloader-3vV/">
+<link rel="alternate" hreflang="en" href="https://en1.savefrom.net/1-youtube-video-downloader-3vV/">
+<link rel="alternate" hreflang="es" href="https://es.savefrom.net/1-youtube-video-downloader-194eD.html">
+<link rel="alternate" hreflang="fr" href="https://fr.savefrom.net/1-youtube-video-downloader-220Tq.html">
+<link rel="alternate" hreflang="hi" href="https://hi.savefrom.net/1-how-to-download-youtube-video-135HO.html">
+<link rel="alternate" hreflang="id" href="https://id.savefrom.net/1-cara-mengunduh-video-youtube-161Bm.html">
+<link rel="alternate" hreflang="it" href="https://it3.savefrom.net/1-scaricare-video-da-youtube.html">
+<link rel="alternate" hreflang="ja" href="https://ja.savefrom.net/1-youtube-video-downloader-162AM.html">
+<link rel="alternate" hreflang="ko" href="https://ko.savefrom.net/1-유튜브-비디오-다운로드-하는-방법-122ja.html">
+<link rel="alternate" hreflang="pl" href="https://pl.savefrom.net/1-youtube-video-downloader-133vX.html">
+<link rel="alternate" hreflang="pt" href="https://pt2.savefrom.net/1-how-to-download-youtube-video.html">
+<link rel="alternate" hreflang="ru" href="https://ru.savefrom.net/1-быстрый-способ-скачать-с-youtube-165lr/">
+<link rel="alternate" hreflang="th" href="https://th.savefrom.net/1-youtube-video-downloader-150zY.html">
+<link rel="alternate" hreflang="tr" href="https://tr.savefrom.net/1-how-to-download-youtube-video-688SJ.html">
+<link rel="alternate" hreflang="uk" href="https://uk.savefrom.net/1-швидкий-спосіб-завантажити-з-youtube-128RO.html">
+<link rel="alternate" hreflang="vi" href="https://vi.savefrom.net/1-cach-tai-video-youtube-135.html">
+<link rel="alternate" hreflang="zh" href="https://zh.savefrom.net/1-how-to-download-youtube-video-91Ao.html">
+<link rel="alternate" hreflang="en-in" href="https://en1.savefrom.net/1-youtube-video-downloader-3vV/">
+<link rel="alternate" hreflang="en-ph" href="https://en1.savefrom.net/1-youtube-video-downloader-3vV/">
+<link rel="alternate" hreflang="en-pk" href="https://en1.savefrom.net/1-youtube-video-downloader-3vV/">
+<link rel="alternate" hreflang="en-bd" href="https://en1.savefrom.net/1-youtube-video-downloader-3vV/">
+<link rel="alternate" hreflang="en-id" href="https://en1.savefrom.net/1-youtube-video-downloader-3vV/">
+<link rel="alternate" hreflang="en-my" href="https://en1.savefrom.net/1-youtube-video-downloader-3vV/">
+<link rel="alternate" hreflang="hi-in" href="https://hi.savefrom.net/1-how-to-download-youtube-video-135HO.html">
+<link rel="alternate" hreflang="id-id" href="https://id.savefrom.net/1-cara-mengunduh-video-youtube-161Bm.html">
+<link rel="alternate" hreflang="id-my" href="https://id.savefrom.net/1-cara-mengunduh-video-youtube-161Bm.html">
+<link rel="alternate" hreflang="ru-ro" href="https://ru.savefrom.net/1-быстрый-способ-скачать-с-youtube-165lr/">
+<link rel="alternate" hreflang="ru-az" href="https://ru.savefrom.net/1-быстрый-способ-скачать-с-youtube-165lr/">
+<link rel="alternate" hreflang="en-br" href="https://en1.savefrom.net/1-youtube-video-downloader-3vV/">
+<link rel="alternate" hreflang="pt-br" href="https://pt2.savefrom.net/1-how-to-download-youtube-video.html">
+<link rel="alternate" hreflang="es-co" href="https://es.savefrom.net/1-youtube-video-downloader-194eD.html">
+<link rel="alternate" hreflang="en-co" href="https://en1.savefrom.net/1-youtube-video-downloader-3vV/">
+<link rel="alternate" hreflang="es-mx" href="https://es.savefrom.net/1-youtube-video-downloader-194eD.html">
+<link rel="alternate" hreflang="en-mx" href="https://en1.savefrom.net/1-youtube-video-downloader-3vV/">
+<link rel="alternate" hreflang="es-pe" href="https://es.savefrom.net/1-youtube-video-downloader-194eD.html">
+<link rel="alternate" hreflang="en-pe" href="https://en1.savefrom.net/1-youtube-video-downloader-3vV/">
+<link rel="alternate" hreflang="zh-tw" href="https://zh.savefrom.net/1-how-to-download-youtube-video-91Ao.html">
+<link rel="alternate" hreflang="zh-cn" href="https://zh.savefrom.net/1-how-to-download-youtube-video-91Ao.html">
+<link rel="canonical" href="https://es.savefrom.net/1-youtube-video-downloader-194eD.html">
+
+
+</head>
+<body class="search-panel">
+
+  <!--Header-->
+  <header class="header header_v2">
+    <div class="page-width-inner g-row_inline">
+      <div class="header__left g-col">
+        <span class="menu-btn menu-btn_v2"></span>
+        <a name="logo" class="logo" href="//es.savefrom.net/260nr/">Savefrom.net</a>
+      </div>
+              <nav id="nav_top" class="g-col c9">
+          <div class="nav-top-2 right">
+                                                      <span class="nav-top-2__item nav-top-2__item_active">
+                  YouTube                </span>
+                                                        <a href="https://es.savefrom.net/9-how-to-download-facebook-video-163.html" class="nav-top-2__item">Facebook</a>
+                                                        <a href="https://es.savefrom.net/180/download-from-instagram" class="nav-top-2__item">Instagram</a>
+                                                        <a href="https://es.savefrom.net/162/download-from-twitter" class="nav-top-2__item">Twitter</a>
+                                                        <a href="https://es.savefrom.net/149rn/download-from-tiktok" class="nav-top-2__item">TikTok</a>
+                                                        <a href="https://en1.savefrom.net/100-how-to.html" class="nav-top-2__item">How to</a>
+                                                        <a href="https://es.savefrom.net/3/user.php?vid=388" class="nav-top-2__item">Instalar</a>
+                                    </div>
+        </nav>
+          </div>
+  </header>
+  <div class="top-banner-wrapper"></div>
+
+<div id="main" class="main-block main-block_v2">
+  <noscript>
+    <div class="wrapper"><p class="javascript-error">SaveFrom.net utiliza Javascript para la visualización de algunos contenidos. Habilite Javascript en su navegador y vuelva a cargar esta página.</p></div>
+  </noscript>
+<div class="downloader-block">
+  <div class="open-link-form-all-block open-link-form-old">
+    <div class="main-form-box">
+      <div class="main-form-box-left">
+        <div id="link-form-old-cont">
+                  <div class="downloader-2 downloader-2-part1">
+          <!--main form-->
+          <form action="/savefrom.php" method="POST" class="sf-form link-form" onsubmit="return sf.checkForm(event);" target="sf_frame" id="sf_form">
+            <div class="form-block">
+              <div class="l-box">
+                <div class="tarea-wrap">
+                  <input type="text" name="sf_url" value="" autofocus placeholder="Pegue aquí el enlace a un vídeo" id="sf_url" onfocus="if(this.value && this.select){this.select()}">
+                  <a href="#" class="clear-btn"></a>
+                </div>
+              </div>
+              <div class="r-box">
+                <button type="submit" name="sf_submit" id="sf_submit" class="submit">Descargar</button>
+              </div>
+            </div>
+            <div class="services clearfix"></div>
+            <input type="hidden" name="new" value="2">
+            <input type="hidden" name="lang" value="es">
+                        <input type="hidden" name="app" value="">
+            <div class="terms__string">Al utilizar nuestro servicio, acepta nuestros <a href="https://en1.savefrom.net/1/terms.html" rel="nofollow">Términos de servicio</a> y nuestra <a href="https://en1.savefrom.net/1/privacy-policy.html" rel="nofollow" target="_blank">Política de privacidad</a></div>
+          </form>
+          <!--/main form-->
+
+          <iframe name="sf_frame" id="sf_frame" width="100" height="150" style="display: none;"></iframe>
+        </div>
+                      <div class="main-form__wrapper" style="visibility: hidden">
+            <div class="main-form__watch main-form__watch_show">
+              <img src="/img/main/btnPlay.svg" alt="">
+              <button class="main-form__button" type="button">¿Cómo descargar?</button>
+              <span>Mira el tutorial</span>
+            </div>
+            <div class="main-form__video" >
+              <video width="auto" height="auto" poster="/img/mainForm/search-panel-img.png" playsinline loop muted controls class="search-result-video">
+                <source src="/img/mainForm/search-panel-video.mp4" type="video/mp4">
+              </video>
+            </div>
+          </div>
+                  </div>
+      </div>
+      <div class="main-form-box-right" style="display:none"></div>
+    </div>
+  </div>
+
+  
+<div class="downloader-2 downloader-2-part2">
+  <div id="sf_indicator_box" style="display: none;"></div>
+
+  <div id="sf_multi_form_box"></div>
+  <div id="sf_multi_result"></div>
+  <!--result-->
+  <div id="sf_result">
+
+  </div>
+  <!--/result-->
+
+</div>
+<div class="norton">
+  <p>Scanned by</p>
+  <img alt="Norton" src="/img/norton.svg">
+  <p>Norton<sup>TM</sup> Safe Web</p>
+</div>
+<div id="modal-container" class="modal-container center-popup-cont">
+  <div class="shade"></div>
+  <div class="popup-content">
+    <div class="modal-text-cont-for-js"></div>
+    <div class="close-modal close-modal-icon"></div>
+  </div>
+</div>
+
+<div id="output-dialog" class="a11y-dialog" aria-hidden="true">
+  <div class="a11y-dialog-overlay" data-a11y-dialog-hide></div>
+  <div role="document" class="a11y-dialog-content">
+    <button type="button" class="a11y-dialog-close" data-a11y-dialog-hide>&times;</button>
+    <div class="a11y-dialog-content-for-js"></div>
+  </div>
+</div>
+
+
+
+
+</div>
+
+  <script type="application/ld+json">
+              {
+                "@context": "https://schema.org",
+                "@type": "VideoObject",
+                "name": "Descargar videos de YouTube - SaveFrom.net",
+                "description": "¡Guarde videos de YouTube con SaveFrom de la manera más rápida y fácil! Su excelente funcionalidad te permite descargar de YouTube cuando quieras. Con nuestro descargador de videos de YouTube, puede obtener su video en HD, FullHD, MP4, WEBM, 3GP o cualquier otro formato.",
+                "thumbnailUrl": [
+                  "https://es.savefrom.net/img/main/howWatch.png"
+                 ],
+                "uploadDate": "2021-05-31T08:00:00+08:00",
+                "duration": "PT0M11S",
+                "contentUrl": "https://savefrom.net/img/mainForm/search-panel-video.mp4",
+                "embedUrl": "https://es.savefrom.net/1-youtube-video-downloader-194eD.html"              }
+  </script>
+
+<!--    </div>/wrapper-->
+<div class="install-now" id="js-install-now"></div>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://es.savefrom.net/1-youtube-video-downloader-194eD.html"
+  },
+  "headline": "Descargar videos de YouTube - SaveFrom.net",
+  "description": "¡Guarde videos de YouTube con SaveFrom de la manera más rápida y fácil! Su excelente funcionalidad te permite descargar de YouTube cuando quieras. Con nuestro descargador de videos de YouTube, puede obtener su video en HD, FullHD, MP4, WEBM, 3GP o cualquier otro formato.",
+  "image": "https://es.savefrom.net/img/logo_small2.svg",
+  "author": {
+    "@type": "Organization",
+    "name": "SaveFrom.net"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "SaveFrom.net",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://es.savefrom.net/img/logo_small2.svg"
+    }
+  },
+  "datePublished": "2024-01-05T00:00:00+00:00",
+  "dateModified": "2024-11-28T01:04:24+00:00",
+  "inLanguage": "es"
+}
+</script>
+<div class="wrapper">
+  <article class="article-1" dir="">
+    <style>
+  .wrapper {
+    width: 970px;
+  }
+
+  .main-block {
+    overflow: hidden;
+  }
+
+  .top-line-2 {
+    background-image: none;
+  }
+
+  .feature-2-col:after, .feature-2-col:before {
+    display: none;
+  }
+
+  @media only screen and (max-width: 919px) {
+    .page-width, .wrapper {
+      padding-left: 5%;
+      padding-right: 5%;
+      max-width: 89%;
+    }
+  }
+
+  .top-line-2 section, .top-line section {
+    margin-bottom: 0em;
+  }
+</style>
+
+
+<div class="dailymotion-page">
+  <h1>Descargar videos de YouTube</h1>
+  <nav class="main-supported-services"><ul class="supported-services_v3 supported-services_v3_center supported-services important-services"><li class="service-youtube_com"><span class="main-favicon icon-ytMain">YouTube</span></li><li class="service-youtube_com"><a href="https://es.savefrom.net/21-youtube-to-mp4-23oh.html" class="main-favicon icon-ytPlay">YouTube Mp4</a></li><li class="service-youtube_com"><a href="https://es.savefrom.net/23-descargador-youtube-shorts.html" class="main-favicon icon-ytShorts">YouTube Shorts</a></li><li class="service-youtube_com"><a href="https://es.savefrom.net/102-youtube-music-downloader-61Ae.html" class="main-favicon icon-ytMusic">YouTube Mp3</a></li></ul></nav>
+  <section class="feature-2-col feature-2-col-margin">
+    <div class="text-box">
+      <p>Conoce YouTube, la principal plataforma de videos y el tercer sitio web más visitado a nivel mundial. Su éxito se debe a su facilidad de uso y a una interfaz amigable. Sin embargo, descargar videos directamente de YouTube puede ser complicado debido a las restricciones de la plataforma, lo que hace difícil hacerlo con todos los videos mediante métodos convencionales.</p>
+      <p>SaveFrom YouTube Downloader es la solución perfecta para descargar videos de YouTube directamente a tu computadora, smartphone o tableta de manera gratuita, garantizando la mejor calidad en tus descargas. Disfruta de la comodidad y eficiencia de esta herramienta para bajar videos en alta definición (Full HD) de YouTube, reconocida por su alto rendimiento y excelente funcionalidad.</p>
+  </div>
+    <img src="/img/articles/youtube_com_ummy/new/youtube_logo.svg" alt="Descargar videos de YouTube" width="176" height="176">
+  </section>
+
+    <h2 class="show-mobile-only">Recursos compatibles</h2>
+
+<nav class="main-supported-services">
+  <ul class="supported-services_v3 supported-services important-services"><li class="service-facebook_com"><a href="https://es.savefrom.net/9-how-to-download-facebook-video-163.html" class="main-favicon icon-facebook_com">facebook.com</a></li><li class="service-instagram_com"><a href="/180/download-from-instagram" class="main-favicon icon-instagram_com">instagram.com</a></li><li class="service-youtube_com"><span class="main-favicon icon-youtube_com">youtube.com</span></li><li class="service-twitter_com"><a href="/162/download-from-twitter" class="main-favicon icon-twitter_com">twitter.com</a></li></ul><div class="other-services">
+                <h3>Todos los sitios</h3>
+                <ul class="supported-services_v3 supported-services"><li class="service-dailymotion_com"><a href="https://es.savefrom.net/10-como-descargar-vídeos-de-dailymotion-18.html" class="main-favicon icon-dailymotion_com">dailymotion.com</a></li><li class="service-vimeo_com"><a href="https://es.savefrom.net/11-como-descargar-vídeos-de-vimeo-22nP.html" class="main-favicon icon-vimeo_com">vimeo.com</a></li><li class="service-vk_com"><a href="https://es.savefrom.net/7-cómo-descargar-música-videos-fotos-de-vk-18.html" class="main-favicon icon-vk_com">vk.com</a></li><li class="service-soundcloud_com"><a href="https://es.savefrom.net/12-como-descargar-audios-de-soundcloud-30hY.html" class="main-favicon icon-soundcloud_com">soundcloud.com</a></li><li class="service-tiktok_com"><a href="/149rn/download-from-tiktok" class="main-favicon icon-tiktok_com">tiktok.com</a></li><li class="service-reddit_com"><a href="/14/reddit-video-downloader" class="main-favicon icon-reddit_com">reddit.com</a></li><li class="service-threads"><a href="https://es.savefrom.net/22-threads-downloader.html" class="main-favicon icon-threads">Threads</a></li></ul></div></nav>
+
+
+
+  <div >
+
+    <h2>Descargar videos Youtube online con SaveFrom.net Helper</h2>
+
+    <section class="feature-2-col-margin">
+      <div class="col-left w-326">
+        <div class="text-box">
+          <p>Descargar video de Youtube online gratis es fácil con la extensión <b>“SaveFrom.net Helper”</b> para los
+            navegadores de escritorio.</p>
+          <p>La extensión agrega un botón de descarga a las páginas de Youtube en línea, debajo del video, que le
+            permite descargar videos en formatos mp3 y mp4 cuando los mira, con solo un clic.</p>
+          <p>Para los usuarios de Android, desarrollamos una aplicación que la encontrarás <a
+            href="https://es.savefrom.net/16-youtube-downloader-app-56.html" target="_blank">aquí</a>.</p>
+          <p>¡Guarde un video gratis o una canción en su computadora o dispositivo móvil y compruébelo usted mismo!</p>
+        </div>
+
+      </div>
+
+      <div class="col-right w-388">
+        <picture class="img-box">
+          <source srcset="/img/articles/youtube_com/sf_helper.webp" type="image/webp">
+          <img src="/img/articles/youtube_com/sf_helper.png" width="252" alt="como descargar video de youtube en pc">
+        </picture>
+      </div>
+    </section>
+
+    <section class="b-install">
+        <span class="b-text-emphasis">
+          Instalar el asistente SaveFrom.net
+        </span>
+      <a href="/3/user.php?vid=308" data-btn="download" class="green-btn-3">Instalar</a>
+    </section>
+  </div>
+  <section class="b-android">
+    <div class="b-heading">
+      <h2>Aplicación para descargar videos de YouTube en Android</h2>
+
+      <p>Para los usuarios de Android, hemos desarrollado una increíble aplicación que funciona de manera excelente en
+        teléfonos móviles y tabletas Android. Esta aplicación se llama SaveFrom.net</p>
+    </div>
+
+    <div class="feature-2-col-margin">
+      <div class="col-left w-339">
+        <picture class="img-box">
+          <source srcset="/img/articles/dailymotion_com/new/dm_homepage__3.webp" type="image/webp">
+          <img src="/img/articles/dailymotion_com/new/dm_homepage__3.png" width="339" height="477"
+               alt="Aplicación SaveFrom.net para descargar videos en Android">
+        </picture>
+      </div>
+      <div class="col-right w-376">
+        <div class="text-box">
+          <h2>Descarga y Disfruta Videos con SaveFrom.net App para Android</h2>
+          <ul class="l-android">
+            <li class="l-android--item l-android--item__download">Descarga videos de YouTube fácilmente y a máxima
+              velocidad.
+            </li>
+            <li class="l-android--item l-android--item__watch">Visualiza tus videos favoritos offline y mantente siempre
+              entretenido.
+            </li>
+            <li class="l-android--item l-android--item__media">Utiliza la galería multimedia integrada para organizar tu
+              música y videos.
+            </li>
+            <li class="l-android--item l-android--item__manage">Gestiona tus archivos de manera efectiva y olvídate del
+              desorden.
+            </li>
+            <li class="l-android--item l-android--item__music">Escucha tu música preferida en cualquier lugar y
+              momento.
+            </li>
+            <li class="l-android--item l-android--item__share">Comparte los videos que amas con tus amigos fácilmente.
+            </li>
+          </ul>
+
+          <div>
+            <a href="https://es.savefrom.net/16-youtube-downloader-app-56.html" target="_blank" class="google-button">Descargar la aplicación
+              ahora</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="b-instruction">
+    <div class="b-heading">
+      <h2>¿Cómo descargar videos de Youtube en línea a través del sitio web SaveFrom.net?</h2>
+
+      <p>La descarga a través del sitio web SaveFrom.net es muy fácil, solo siga tres sencillos pasos para guardar su
+        video en su PC, Mac, teléfono móvil o tableta.</p>
+    </div>
+
+    <div class="b-instruction-row">
+      <div class="b-instruction-col">
+        <figure>
+          <img src="/img/articles/youtube_com/reskin/yt_instruction_1.svg" width="220" height="176" alt=""
+               class="b-instruction-img">
+          <figcaption>
+            <p class="opacity-1">
+              <b>1. Copiar la URL de un video</b>
+            </p>
+            <p>Abra el video de Youtube en una nueva pestaña y copie su URL de la barra de direcciones del navegador.
+              Seleccione el enlace completo y cópielo desde el menú contextual o el atajo de teclado CTRL + C para
+              Windows o CMD + C en Mac.</p>
+          </figcaption>
+        </figure>
+      </div>
+      <div class="b-instruction-col">
+        <figure>
+          <img src="/img/articles/youtube_com/reskin/yt_instruction_2.svg" width="220" height="176" alt=""
+               class="b-instruction-img">
+          <figcaption>
+            <p class="opacity-1">
+              <b>2. Pegue la URL en el campo de entrada</b>
+            </p>
+            <p>Regrese al descargador de Youtube SaveFrom y pegue el enlace en el formulario, desde la parte superior de
+              la página, y haga clic en el botón Descargar para ejecutar el proceso, por lo general, se inicia
+              automáticamente.</p>
+          </figcaption>
+        </figure>
+      </div>
+      <div class="b-instruction-col">
+        <figure>
+          <img src="/img/articles/youtube_com/reskin/yt_instruction_3.svg" width="220" height="177" alt=""
+               class="b-instruction-img">
+          <figcaption>
+            <p class="opacity-1">
+              <b>3. Haga clic en el botón de descarga</b>
+            </p>
+            <p>Una vez que los enlaces estén listos, obtendrá una lista de opciones de calidad entre las que puede
+              elegir para guardar el video que desee. Por lo general, puede seleccionar la resolución y el formato de
+              archivo y los más populares son los formatos .mp4 y WebM.</p>
+          </figcaption>
+        </figure>
+      </div>
+    </div>
+  </section>
+
+  <p class="center display-none-min-500"><a href="/3/user.php?vid=308" data-btn="download" class="green-btn-2 arrow">INSTALL NOW</a></p>
+
+  <section itemscope="" itemType="https://schema.org/FAQPage">
+    <div class="sf_container">
+      <div class="wrapper">
+        <div class="sf_faq">
+          <div class="sf_faq_title">
+            <h2>Preguntas y Respuestas</h2>
+          </div>
+
+          <div class="faq_item" itemScope itemProp="mainEntity" itemType="https://schema.org/Question">
+            <div class="faq_item_title">
+              <h4 itemProp="name">¿Cómo descargar video de Youtube sin aplicacion en pc?</h4>
+              <div class="arrow"></div>
+            </div>
+            <div class="faq_item_content" itemScope itemProp="acceptedAnswer" itemType="https://schema.org/Answer">
+              <div itemProp="text">
+                <ol>
+                  <li>Haga clic en el botón verde "Descargar" para guardar el video, o seleccione el formato que desee
+                    (MP3, MP4, WEBM, 3GP).
+                  </li>
+                  <li>Luego haga clic en la flecha gris a la derecha del botón "Descargar" para elegir el formato
+                    preferido.
+                  </li>
+                  <li>¡Ahora puedes disfrutar de los videos y las listas de reproducción sin conexión! Youtube
+                    downloader funciona en Chrome, Firefox o cualquier otro navegador.
+                  </li>
+                </ol>
+              </div>
+            </div>
+          </div>
+
+          <div class="faq_item" itemScope itemProp="mainEntity" itemType="https://schema.org/Question">
+            <div class="faq_item_title">
+              <h4 itemProp="name">¿Cómo descargar videos de Youtube en mp4 o mp3 online?</h4>
+              <div class="arrow"></div>
+            </div>
+            <div class="faq_item_content" itemScope itemProp="acceptedAnswer" itemType="https://schema.org/Answer">
+              <div itemProp="text">
+                <ol>
+                  <li>Para ello, es necesario salvar un programa llamado Televzr Downloader.</li>
+                  <li>Cuando hayas instalado la extensión, aparecerá el botón “Descargar” debajo de cada audio y
+                    vídeo.
+                  </li>
+                  <li>Si está utilizando el descargador Ummy - Haz clic en el botón y selecciona “HD via Ummy” o “MP3
+                    via Ummy”.
+                  </li>
+                  <li>Este método funciona para todos los usuarios de Windows.</li>
+                </ol>
+              </div>
+            </div>
+          </div>
+
+          <div class="faq_item" itemScope itemProp="mainEntity" itemType="https://schema.org/Question">
+            <div class="faq_item_title">
+              <h4 itemProp="name">¿Cómo bajar Youtube videos sin complementos?</h4>
+              <div class="arrow"></div>
+            </div>
+            <div class="faq_item_content" itemScope itemProp="acceptedAnswer" itemType="https://schema.org/Answer">
+              <div itemProp="text">
+                <ol>
+                  <li>Simplemente agregue "ss" a la URL del video para iniciar el proceso de descarga videos de YouTube
+                    en alta calidad.
+                  </li>
+                  <li>Su descarga comenzará en poco tiempo.</li>
+                </ol>
+              </div>
+            </div>
+          </div>
+
+          <div class="faq_item" itemScope itemProp="mainEntity" itemType="https://schema.org/Question">
+            <div class="faq_item_title">
+              <h4 itemProp="name">¿Cómo descargar desde cualquier página web?</h4>
+              <div class="arrow"></div>
+            </div>
+            <div class="faq_item_content" itemScope itemProp="acceptedAnswer" itemType="https://schema.org/Answer">
+              <div itemProp="text">
+                <p>Al utilizar el programa de descargar de Youtube SaveFrom.Net, puede guardar videos no solo de los
+                  principales sitios web para compartir videos como <a href="https://es.savefrom.net/149rn/download-from-tiktok">TikTok</a> o <a
+                    href="https://es.savefrom.net/180/download-from-instagram">Instagram</a>, sino también del 99% de todas las páginas web que
+                  tienen videos.</p>
+                <p>Simplemente agregue “sfrom.net/” o “savefrom.net/” Youtube downloader antes de la URL del sitio web y
+                  presione Enter. De esta manera, verá la lista con enlaces directos a todos los videos publicados en
+                  este recurso web.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="faq_item" itemScope itemProp="mainEntity" itemType="https://schema.org/Question">
+            <div class="faq_item_title">
+              <h4 itemProp="name">¿Cómo descargar videos de Youtube en un móvil Android?</h4>
+              <div class="arrow"></div>
+            </div>
+            <div class="faq_item_content" itemScope itemProp="acceptedAnswer" itemType="https://schema.org/Answer">
+              <div itemProp="text">
+                <ol>
+                  <li>Pegue la URL de las canciones o la lista de reproducción de Youtube en el campo de entrada;</li>
+                  <li>Luego toque el botón "Descargar". En el menú desplegable verá su canción de Youtube;</li>
+                  <li>That's all</li>
+                </ol>
+              </div>
+            </div>
+          </div>
+
+          <div class="faq_item" itemScope itemProp="mainEntity" itemType="https://schema.org/Question">
+            <div class="faq_item_title">
+              <h4 itemProp="name">¿Como bajar videos de Youtube en iPhone?</h4>
+              <div class="arrow"></div>
+            </div>
+            <div class="faq_item_content" itemScope itemProp="acceptedAnswer" itemType="https://schema.org/Answer">
+              <div itemProp="text">
+                <p>Descargue la aplicación llamada Documentos 5, ya que esto le permitirá salvar un video y luego
+                  transferirlo al carrete de su cámara.</p>
+                <p>Una vez que esté completamente instalado, toque Abrir. Después de iniciarlo, haga clic en el
+                  navegador (pequeño icono de brújula en la esquina inferior derecha). Esto abrirá un navegador donde
+                  debe escribir el enlace programa para descargar videos largos de Youtube savefrom.net y presionar
+                  "Ir".</p>
+                <p>Pegue la URL del video que desea descargar en el campo correspondiente en la parte superior de la
+                  página. Seleccione "Descargar", elija el formato deseado y obtenga el archivo que necesita.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="faq_item" itemScope itemProp="mainEntity" itemType="https://schema.org/Question">
+            <div class="faq_item_title">
+              <h4 itemProp="name">¿Dónde se guarda el video?</h4>
+              <div class="arrow"></div>
+            </div>
+            <div class="faq_item_content" itemScope itemProp="acceptedAnswer" itemType="https://schema.org/Answer">
+              <div itemProp="text">
+                <p>De forma predeterminada, el video se guardará en la carpeta "Descargar", donde cada navegador guarda
+                  cualquier archivo que necesite guardar en su dispositivo. En caso de que no pueda encontrar el
+                  archivo, vaya al historial de descargas de su navegador y busque dónde está guardado el archivo.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="faq_item" itemScope itemProp="mainEntity" itemType="https://schema.org/Question">
+            <div class="faq_item_title">
+              <h4 itemProp="name">¿Cómo bajar videos de Youtube sin el software?</h4>
+              <div class="arrow"></div>
+            </div>
+            <div class="faq_item_content" itemScope itemProp="acceptedAnswer" itemType="https://schema.org/Answer">
+              <div itemProp="text">
+                <p>Hay varias formas de descargar de Youtube a mp3 o en mp4 gratis y rapido. La primera y más fácil de
+                  usar para Android es la aplicación de Android SaveFrom.net, simplemente salve el archivo APK. El
+                  segundo método es utilizar el sitio web SaveFrom.net y el tercero es utilizar el dominio corto
+                  "sfrom.net/".</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="faq_item" itemScope itemProp="mainEntity" itemType="https://schema.org/Question">
+            <div class="faq_item_title">
+              <h4 itemProp="name">¿Qué formato recomiendas para bajar videos y música?</h4>
+              <div class="arrow"></div>
+            </div>
+            <div class="faq_item_content" itemScope itemProp="acceptedAnswer" itemType="https://schema.org/Answer">
+              <div itemProp="text">
+                <p>Si no estás seguro del formato de archivo que necesitas, te sugerimos optar por el formato MP4. MP4 es el formato más popular a nivel mundial. Ofrece una alta compresión sin pérdida de calidad. Los archivos MP4 tienen un tamaño reducido y no requieren códecs con licencia de pago. Otro formato que está ganando popularidad rápidamente es WebM.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  </article>
+  <br>
+      <div id="sfHelperDownloadBox"></div>
+  <script src="/build/js/runtime.js?h=cab5eef8.js"></script><script src="/build/js/vendor.js?h=065f9614.js"></script><script src="/build/js/sfHelperDownloadBox.js?h=6152ee95.js"></script>    <script>
+      sfHelperDownloadBox.append('#sfHelperDownloadBox', {"name":"Men\u00fa auxiliar de SaveFrom.net","description":"Le permite descargar archivos desde YouTube, Facebook, Vimeo y otros 40 sitios m\u00e1s con un solo clic.","btn":{"href":"\/3\/user.php??vid=308&download=setup","text":"Instalar"},"safetyInfo":"Seguridad garantizada"});
+    </script>
+  </div>
+
+
+
+    </div>
+    <!--/content-->
+
+      <!-- verify-admitad: "ef27e00c36" -->
+</div> <!--/main-->
+
+  <!--Footer-->
+<footer class="footer_v2">
+  <div class="wrapper">
+    <nav class="lang-box" tabindex="2" style="z-index:1000;" translate="no">
+      <ul class="lang">
+        
+
+<li><a href="https://ar.savefrom.net/1-youtube-video-downloader-171.html" class="lang-ar">العربية</a></li><li><a href="https://de.savefrom.net/1-youtube-downloader-549ib/" class="lang-de">Deutsch</a></li><li><a href="https://en1.savefrom.net/1-youtube-video-downloader-3vV/" class="lang-en">English</a></li><li class="active"><span class="lang-es">Español</span></li><li><a href="https://fr.savefrom.net/1-youtube-video-downloader-220Tq.html" class="lang-fr">‪Français</a></li><li><a href="https://hi.savefrom.net/1-how-to-download-youtube-video-135HO.html" class="lang-hi">हिन्दी‎</a></li><li><a href="https://id.savefrom.net/1-cara-mengunduh-video-youtube-161Bm.html" class="lang-id">Bahasa Indonesia‬</a></li><li><a href="https://it3.savefrom.net/1-scaricare-video-da-youtube.html" class="lang-it">‪Italiano‬</a></li><li><a href="https://ja.savefrom.net/1-youtube-video-downloader-162AM.html" class="lang-ja">日本語</a></li><li><a href="https://ko.savefrom.net/1-유튜브-비디오-다운로드-하는-방법-122ja.html" class="lang-ko">한국어</a></li><li><a href="https://pl.savefrom.net/1-youtube-video-downloader-133vX.html" class="lang-pl">Polski‎</a></li><li><a href="https://pt2.savefrom.net/1-how-to-download-youtube-video.html" class="lang-pt">Português (Brasil)</a></li><li><a href="https://ru.savefrom.net/1-быстрый-способ-скачать-с-youtube-165lr/" class="lang-ru">Русский</a></li><li><a href="https://th.savefrom.net/1-youtube-video-downloader-150zY.html" class="lang-th">ไทย</a></li><li><a href="https://tr.savefrom.net/1-how-to-download-youtube-video-688SJ.html" class="lang-tr">Türkçe‬</a></li><li><a href="https://uk.savefrom.net/1-швидкий-спосіб-завантажити-з-youtube-128RO.html" class="lang-uk">Українська‬</a></li><li><a href="https://vi.savefrom.net/1-cach-tai-video-youtube-135.html" class="lang-vi">Tiếng Việt</a></li><li><a href="https://zh.savefrom.net/1-how-to-download-youtube-video-91Ao.html" class="lang-zh">简体中文</a></li>      </ul>
+    </nav>
+
+    <div class="f-nav-box">
+      <div class="f-nav-box-column copyright-box">
+        <img src="/img/logo_small2.svg" width="167" height="40" alt="">
+        <p class="copyright" dir="ltr">© 2008-2024</p>
+      </div>
+      <div class="f-nav-box-column f-nav-container">
+        <nav class="f-nav">
+                              <div class="f-nav-column f-nav-articles">
+            <ul>
+                              <li>
+                                  <span class="active">YouTube</span>
+                                </li>
+                              <li>
+                                  <a href="https://es.savefrom.net/21-youtube-to-mp4-23oh.html" >YouTube to mp4</a>
+                                </li>
+                              <li>
+                                  <a href="https://es.savefrom.net/23-descargador-youtube-shorts.html" >YouTube Shorts</a>
+                                </li>
+                              <li>
+                                  <a href="https://es.savefrom.net/102-youtube-music-downloader-61Ae.html" >YouTube Mp3</a>
+                                </li>
+                              <li>
+                                  <a href="https://es.savefrom.net/16-youtube-downloader-app-56.html" >APP</a>
+                                </li>
+                          </ul>
+          </div>
+                    <div class="f-nav-column f-nav-articles">
+            <ul>
+                              <li>
+                                  <a href="https://es.savefrom.net/180/download-from-instagram" >Instagram</a>
+                                </li>
+                              <li>
+                                  <a href="https://es.savefrom.net/20-download-instagram-stories-123.html" >IG stories</a>
+                                </li>
+                              <li>
+                                  <a href="https://es.savefrom.net/25-instagram-reels-download.html" >Instagram reels</a>
+                                </li>
+                              <li>
+                                  <a href="https://es.savefrom.net/26-instagram-viewer.html" >Instagram viewer</a>
+                                </li>
+                          </ul>
+          </div>
+                    <div class="f-nav-column f-nav-articles">
+            <ul>
+                              <li>
+                                  <a href="https://es.savefrom.net/149rn/download-from-tiktok" >TikTok</a>
+                                </li>
+                              <li>
+                                  <a href="https://es.savefrom.net/28-tiktok-mp4-1Fi.html" >TikTok mp4</a>
+                                </li>
+                              <li>
+                                  <a href="https://es.savefrom.net/27-tiktok-mp3-1DE.html" >TikTok mp3</a>
+                                </li>
+                          </ul>
+          </div>
+                    <div class="f-nav-column f-nav-articles">
+            <ul>
+                              <li>
+                                  <a href="https://es.savefrom.net/9-how-to-download-facebook-video-163.html" >Facebook</a>
+                                </li>
+                              <li>
+                                  <a href="https://es.savefrom.net/11-como-descargar-vídeos-de-vimeo-22nP.html" >Vimeo</a>
+                                </li>
+                              <li>
+                                  <a href="https://es.savefrom.net/162/download-from-twitter" >Twitter</a>
+                                </li>
+                              <li>
+                                  <a href="https://en1.savefrom.net/100-how-to.html" >How to</a>
+                                </li>
+                              <li>
+                                  <a href="https://es.savefrom.net/18/apk" >APK</a>
+                                </li>
+                              <li>
+                                  <a href="https://es.savefrom.net/12/faq.php" >P+F</a>
+                                </li>
+                              <li>
+                                  <a href="https://es.savefrom.net/3/user.php?vid=388" >Instalar</a>
+                                </li>
+                          </ul>
+          </div>
+                    <div class="f-nav-column f-nav-articles">
+            <ul>
+                              <li>
+                                  <a href="https://es.savefrom.net/11/webmaster.php" >Para webmasters</a>
+                                </li>
+                              <li>
+                                  <a href="https://es.savefrom.net/1/contact.php" >Comentarios</a>
+                                </li>
+                              <li>
+                                  <a href="https://en1.savefrom.net/1/api.php" rel="nofollow">API</a>
+                                </li>
+                              <li>
+                                  <a href="https://es.savefrom.net/1/advertising.php" >Publicidad</a>
+                                </li>
+                              <li>
+                                  <a href="https://en1.savefrom.net/1/terms.html" rel="nofollow">Terms of Service</a>
+                                </li>
+                              <li>
+                                  <a href="https://en1.savefrom.net/1/EULA.html" rel="nofollow">EULA</a>
+                                </li>
+                              <li>
+                                  <a href="https://en1.savefrom.net/1/privacy-policy.html" rel="nofollow">PP</a>
+                                </li>
+                          </ul>
+          </div>
+                  </nav>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+
+<script type='application/ld+json'>
+{
+    "@context": "http://schema.org/",
+    "@type": "SoftwareApplication",
+    "applicationCategory": "MultimediaApplication",
+    "operatingSystem": [
+        "Windows",
+        "macOS",
+        "Android",
+        "iOS"
+    ],
+    "screenshot": "https://en1.savefrom.net/assets/experiment/sf-helper/img/helper_button_screenshot_en.png",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": "39565",
+        "reviewCount": "39565",
+        "bestRating": "5",
+        "ratingValue": "4.8",
+        "worstRating": "1",
+        "alternateName": "Descargar videos de YouTube - SaveFrom.net",
+        "mainEntityOfPage": "https://es.savefrom.net/1-youtube-video-downloader-194eD.html",
+        "name": "Savefrom"
+    },
+    "alternativeHeadline": "Savefrom",
+    "copyrightYear": "2024",
+    "headline": "Savefrom",
+    "keywords": "savefrom",
+    "offers": {
+        "@type": "Offer",
+        "price": "0.0",
+        "priceCurrency": "USD",
+        "alternateName": "Savefrom",
+        "description": "¡Guarde videos de YouTube con SaveFrom de la manera más rápida y fácil! Su excelente funcionalidad te permite descargar de YouTube cuando quieras. Con nuestro descargador de videos de YouTube, puede obtener su video en HD, FullHD, MP4, WEBM, 3GP o cualquier otro formato.",
+        "mainEntityOfPage": "https://es.savefrom.net/1-youtube-video-downloader-194eD.html",
+        "name": "Savefrom"
+    },
+    "alternateName": "Savefrom",
+    "mainEntityOfPage": "https://es.savefrom.net/1-youtube-video-downloader-194eD.html",
+    "name": "Savefrom"
+}
+</script>
+</body>
+</html>
+
+<!--HEADER CLEAR-->
+<script src="/js/libs/jquery-3.6.0.min.js"></script>
+<script>window.jQuery || document.write('<script src="/js/libs/jquery-3.6.0.min.js"><\/script>')</script>
+<script src="/build/js/scripts.js?h=1ebd44dd.js"></script>
+<script>
+  (function(){
+    initSfJs("es",".savefrom.net","",["sf-android","televzr","android-light","rd_documents","sf-proxy"],"",false,["ar","de","en","es","fr","hi","id","it","ja","ko","pl","pt","ru","th","tr","uk","vi","zh"],false);
+
+    
+    
+    _sf.workerHost = "worker.savefrom.net";
+    sfHelperConfig = {"vid":{"default":300,"cookieName":"vid"},"cookie":"browser_ext","setup":{"browser":{"chrome":{"name":"Google Chrome","url":"\/userjs-for-google-chrome.php","isStore":false,"browserUrl":"https:\/\/www.google.com\/chrome","installAction":"inststructions","updateAction":"inststructions","desktop":true,"mobile":false},"chromium":{"name":"Chromium","url":"\/userjs-for-google-chrome.php","isStore":false,"browserUrl":"https:\/\/www.chromium.org\/","installAction":"inststructions","updateAction":"inststructions","desktop":true,"mobile":false},"firefox":{"name":"Mozilla Firefox","url":"https:\/\/addons.mozilla.org\/firefox\/addon\/savefromnet-helper\/","isStore":true,"browserUrl":"https:\/\/www.mozilla.com\/firefox\/","minVersion":24,"installAction":"install","updateAction":"update","desktop":true,"mobile":true},"opera":{"name":"Opera","url":"https:\/\/addons.opera.com\/extensions\/details\/savefromnet-helper\/","isStore":true,"browserUrl":"https:\/\/www.opera.com\/download\/","installAction":"install","updateAction":"update","desktop":true,"mobile":false},"safari":{"name":"Safari","url":"\/helper-safari.php","isStore":false,"browserUrl":"https:\/\/www.apple.com\/safari\/","installAction":"inststructions","updateAction":"inststructions","desktop":true,"mobile":false},"yandex":{"name":"Yandex.Browser","url":"https:\/\/addons.opera.com\/extensions\/details\/savefromnet-helper\/","isStore":true,"browserUrl":"https:\/\/browser.yandex.com\/","installAction":"install","updateAction":"update","desktop":true,"mobile":true},"edge":{"name":"Edge","url":"https:\/\/microsoftedge.microsoft.com\/addons\/detail\/savefromnet-helper\/hndfjogdceachkbgioglehonpejcdhem","isStore":true,"browserUrl":"https:\/\/www.microsoft.com\/en-us\/edge","installAction":"install","updateAction":"update","desktop":true,"mobile":false}},"userjs":{"url":"https:\/\/download.sf-helper.com\/chrome\/helper.user.js","installAction":"install","updateAction":"update"}},"setupInstructions":{"imgExt":"png","thumbnailSuffix":"_t","os":{"imgExt":"png","thumbnailSuffix":"_t","os":{"windows":{"imgLang":["en","ru"],"steps":{"default":[{"img":"setup_start","imgLang":["en","ru"],"imgExt":"png","thumbnailSuffix":"_t","text":"default_1"},{"img":"setup_1_step","text":"default_2"}],"chrome":[{"img":"chrome_download","text":"chrome_1"}],"chromium":[{"img":"chrome_download","text":"chrome_1"}],"firefox":[{"img":"firefox_download","text":"firefox_1"},{"img":"firefox_download_button","text":"firefox_2"}],"opera":[{"img":"opera_webkit_download_list","text":"opera-webkit_1"}],"safari":[{"img":"safari_download","text":"safari_1"}],"yandex":[{"img":"yandex_download_button","text":"yandex_1"}]}}}}}};
+    _sf.helper = new sfHelper(sfHelperConfig, _sf.browser, _sf.os, _sf.isMobile, _sf.country);
+
+    apkConfig = {"versions":{"stable":{"url":"https:\/\/sfn.page.link\/install","version":"2.3.7 (2241)"}},"distribution":[{"lang":[],"country":[],"excludeLang":[],"excludeCountry":[],"files":[{"url":"https:\/\/sfn.page.link\/install","version":"2.3.7 (2241)","sample":100}]},{"lang":[],"country":[],"excludeLang":[],"excludeCountry":[],"query":{"utm_source":"ads"},"files":[{"url":"https:\/\/sfn.page.link\/propeller","version":"2.3.7 (2241)","sample":0}]}]};
+    _sf.apk = new apkDistribution(apkConfig, _sf.country);
+    _sf.ciVersion = "cbd0a6c5";
+  })();
+</script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YZBZRGCYS9"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','_ga');
+
+  (window.webpackJsonp=window.webpackJsonp||[]).push([[53],{2:function(e,t,a){"use strict";e.exports=window.$},323:function(e,t,a){"use strict";(function(e){var t=a(5),i=a(9),n=a(4),o=a(10),r=a(0),c=r(a(79)),s=r(a(5)),l=r(a(34)),u=r(a(31)),d=r(a(11)),h=r(a(28)),v=r(a(7)),p=["hitType","eventCategory","eventAction","eventLabel","value"],g=["hitType","page_location","page_title"];function m(e,a){var o=t(e);if(i){var r=i(e);a&&(r=r.filter((function(t){return n(e,t).enumerable}))),o.push.apply(o,r)}return o}function f(e){for(var t=1;t<arguments.length;t++){var a=null!=arguments[t]?arguments[t]:{};t%2?m(Object(a),!0).forEach((function(t){(0,d.default)(e,t,a[t])})):o?Object.defineProperties(e,o(a)):m(Object(a)).forEach((function(t){Object.defineProperty(e,t,n(a,t))}))}return e}window.gaHandler={isProd:!1,defaultTrackerName:"t0",trackers:{},trackerNameToGa4IdMap:{},trackersToSkip:{},hostReplacementRegex:null,hostDefault:"other",hostRegex:/^(?=.{1,253}\.?$)(?:(?!-|[^.]+_)[A-Za-z0-9-_]{1,62}[A-Za-z0-9_](?:\.|$)){2,}$/,hostFromUrlRegex:/^(?:https?:)?\/\/(?:[^\/]+@)?([^\/:]+)/i,hostReplacement:{"youtube.com":"101","youtu.be":"101","instagram.com":"in","facebook.com":"fa","fb.com":"fa","vkontakte.com":"vk","vk.com":"vk","twitter.com":"tw","t.co":"tw","dailymotion.com":"da","dai.ly":"da","vimeo.com":"vi","soundcloud.com":"so","tiktok.com":"ti","hotstar.com":"ho","google.com":"se","yandex.ru":"se","ya.ru":"se","bing.com":"se","bit.ly":"ls","bitly.com":"ls","savefrom.net":"sf","xvideos.com":"xxx","xnxx.com":"xxx","pornhub.com":"xxx","youporn.com":"xxx","xhamster.com":"xxx","spankbang.com":"xxx","xvideos2.com":"xxx","txxx.com":"xxx","anybunny.tv":"xxx","redtube.com":"xxx","xnxx.tv":"xxx","pornhubpremium.com":"xxx","iporntv.net":"xxx"},eventReplacement:{youtube:"101",instagram:"in",facebook:"fa",vkontakte:"vk",twitter:"tw",dailymotion:"da",vimeo:"vi",soundcloud:"so",tiktok:"ti",hotstar:"ho"},forceReplaceEvents:{"link-insert":["main-page"],"link-submit":["main-page"],show:["vidacha"],"download-click":["vidacha"]},pageveiewLocation:"",pageviewReplacement:{check:/youtube\.com|youtu\.be/i,regex:/(?:youtube\.com\/(?:[^\/]+\/.+\/|(?:v|e(?:mbed)?)\/|.*?[?&]v=)|youtu\.be\/)([^"&?\/\s]{11})/gi,to:"101"},ga3FieldsToGa4Map:{name:"name",sampleRate:null,language:"language",location:"page_location",title:"page_title",referrer:"page_referrer",sendPageview:"send_page_view",screenResolution:"screen_resolution",userId:"user_id",allowAdFeatures:"allow_google_signals",cookiePath:"cookie_path",cookieDomain:"cookie_domain",cookieExpires:"cookie_expires",cookieName:"cookie_prefix",cookieUpdate:"cookie_update",cookieFlags:"cookie_flags",allowLinker:"linker",contentGroup:"content_group",anonymizeIp:null,customTask:null,siteSpeedSampleRate:null,campaignSource:null,campaignMedium:null,campaignName:null,hitCallback:null},stringToArray:function(e,t){t=t||";";var a=new RegExp(t+"+$");return(e=e.replace(a,"")).split(t)},checkTracker:function(e){if(Array.isArray(e)&&e.length>=2){var t=this.getTrackerNameByCommand(e[0]),a=t.trackerName,i=t.command;if(a&&!this.trackers[a]&&!this.trackerNameToGa4IdMap[a])if(_sf.gaTrackers[a])if(_sf.gaTrackers[a].id){delete this.trackersToSkip[a];var n=_sf.gaTrackers[a].parameters||{};ga("create",_sf.gaTrackers[a].id,"savefrom.net",a,n),_sf.gaTrackers[a].sendPageview&&ga(a+".send","pageview")}else this.trackersToSkip[a]=!0;else e[0]=i;return!0}return!1},addTracker:function(e,t){var a=arguments.length>2&&void 0!==arguments[2]?arguments[2]:{};this.trackers[e]={id:t,parameters:a,isGa4:this.isGa4Resource(t)}},track:function(e){"string"==typeof e&&(e=this.stringToArray(e)),this.checkTracker(e)&&ga.apply(null,e)},trackNode:function(t,a){a=a||"data-ga-event";var i=e(t).attr(a);i&&this.track(i)},getTrackerNameByCommand:function(e){var t=e.split(".",2),a="",i="";return 1===t.length?i=e:(a=t[0],i=t[1]),{trackerName:a,command:i}},filterPayload:function(e){var t=this;return e[1]?"object"===(0,v.default)(e[1])?("event"===e[1].hitType&&(this.isEventRequireReplacement(e[1].category,e[1].action)?e[1].label=this.replaceEventField(e[1].label,!0):["eventCategory","eventAction","eventLabel"].forEach((function(a){e[1][a]&&(e[1][a]=t.replaceEventField(e[1][a]))}))),e):("event"===e[1]&&(this.isEventRequireReplacement(e[2],e[3])?e[4]=this.replaceEventField(e[4],!0):[2,3,4].forEach((function(a){e[a]&&(e[a]=t.replaceEventField(e[a]))}))),e):e},filterGa4Payload:function(e){var t=(0,h.default)(e,3),a=t[1],i=t[2],n=i.event_category,o=i.event_label;return this.isEventRequireReplacement(n,a)?e[2].event_label=this.replaceEventField(o,!0):(e[1]=this.replaceEventField(a),n&&(e[2].event_category=this.replaceEventField(n)),o&&(e[2].event_label=this.replaceEventField(o))),e},getEventOrPageviewByPayload:function(e){if("object"===(0,v.default)(e[1])){if("event"===e[1].hitType||"pageview"===e[1].hitType)return e[1];throw new Error("Invalid payload")}if("event"===e[1]){var t=(0,h.default)(e,6);return f({hitType:t[1],eventCategory:t[2],eventAction:t[3],eventLabel:t[4]},t[5])}if("pageview"===e[1]){var a=(0,h.default)(e,4);return f({hitType:a[1],location:a[2]},a[3])}throw new Error("Invalid payload")},isEventRequireReplacement:function(e,t){return!(!e||!t)&&!!(this.forceReplaceEvents[t]&&this.forceReplaceEvents[t].indexOf(e)>-1)},getHostReplacementRegex:function(){if(this.hostReplacementRegex)return this.hostReplacementRegex;var e=(0,s.default)(this.hostReplacement);return e=e.join("|").replace(/\./g,"\\."),this.hostReplacementRegex=new RegExp("^(?:.+[/.@ ])?(".concat(e,")(?:[^w].*|$)"),"i"),this.hostReplacementRegex},getHostnameFromUrl:function(e){var t=e.match(this.hostFromUrlRegex);return t?t[1]:""},replaceEventField:function(e,t){if(!e||"string"!=typeof e)return e;if(e in this.eventReplacement)return this.eventReplacement[e];if(-1===e.indexOf("."))return e;if(this.hostRegex.test(e))return this.getEventFieldIdByHost(e);var a=this.getHostnameFromUrl(e);return a?this.getEventFieldIdByHost(a):t?this.getEventFieldIdByHost(e):e},getEventFieldIdByHost:function(e){var t=this;if(!e)return e;var a=this.getHostReplacementRegex(),i=e.replace(a,(function(e,a){return t.hostReplacement[a]}));return i!=e?i:this.hostDefault},setPageviewLocation:function(){this.checkLocation()||(this.pageveiewLocation=this.buildLocation())},checkLocation:function(){if(!document.location)return!0;var e=document.location.pathname||"";if(e&&this.pageviewReplacement.check.test(e))return!1;var t=document.location.search||"";return!t||!this.pageviewReplacement.check.test(t)},buildLocation:function(){var e=this,t=document.location.pathname||"";"/"!=t.charAt(0)&&(t="/"+t),t=t.replace(this.pageviewReplacement.regex,this.pageviewReplacement.to);var a=document.location.search||"";if(a&&(a=a.replace(this.pageviewReplacement.regex,this.pageviewReplacement.to),"URLSearchParams"in window)){var i=new URLSearchParams(a);i.forEach((function(t,n){e.pageviewReplacement.check.test(t)&&(i.set(n,t.replace(e.pageviewReplacement.regex,e.pageviewReplacement.to)),a=i.toString())}))}var n=document.location.protocol+"//"+document.location.hostname+t+a,o=document.location.hash||"";if(o){o=o.split(/[?&#]+/);for(var r=[],c=["utm_id","utm_campaign","utm_source","utm_medium","utm_term","utm_content","gclid","dclid","gclsrc"],s=0;s<o.length;++s)for(var l=0;l<c.length;l++)if(0===o[s].indexOf(c[l])){r.push(o[s]);break}r&&(n+="#"+r.join("&"))}return n},isGa4Resource:function(e){return e&&0===e.indexOf("G-")},isGa4Tracker:function(e){return this.trackers[e]?!!this.trackers[e].isGa4:!!this.trackerNameToGa4IdMap[e]},getGa4TrackerConfig:function(e){return this.trackers[e]?this.trackers[e]:this.trackerNameToGa4IdMap[e]?this.trackers[this.trackerNameToGa4IdMap[e]]:null},execGa:function(e){var t="",a=this.getTrackerNameByCommand(e[0]),i=a.trackerName,n=a.command;if("create"===n){var o=e[1],r=this.defaultTrackerName,c={};if(e[3]&&("object"===(0,v.default)(e[3])?(r=e[3].name||r,c=e[3]):"object"===(0,v.default)(e[4])&&(r=e[3],c=e[4])),this.isGa4Resource(o))return this.execGtag(["config",o,f({name:r,cookie_domain:e[2]},this.convertGa3FieldsToGa4(c))]);t=r,c.cookieDomain=e[2],this.addTracker(r,o,c)}else if("send"===n){this.checkTracker(e);var s=i||this.defaultTrackerName;if(this.isGa4Tracker(s))return this.sendGa3EventOrPageviewToGa4(s,e);if(this.trackersToSkip[s])return void(this.isProd||console.log("SKIP GA stats: "+(0,l.default)(e)));this.filterPayload(e)}else if("set"===n){this.checkTracker(e);var u=i||this.defaultTrackerName;if(this.isGa4Tracker(u))return this.setGa3DataToGa4(u,e);if(this.trackersToSkip[u])return void(this.isProd||console.log("SKIP GA stats: "+(0,l.default)(e)))}else this.checkTracker(e);this.isProd?window._ga.apply(window,e):(console.log("GA stats: "+(0,l.default)(e)),"create"!==e[0]&&"string"==typeof e[0]||window._ga.apply(window,e)),t&&this.pageveiewLocation&&ga(t+".set","location",this.pageveiewLocation)},execGtag:function(e){if("config"===e[0]){var t=e[1],a=e[2]||{};this.trackers[t]?this.checkTracker(e):(this.pageveiewLocation&&(a.page_location=this.pageveiewLocation),a.name&&(this.trackerNameToGa4IdMap[a.name]=t),this.addTracker(t,t,a))}else this.checkTracker(e);"event"===e[0]&&this.filterGa4Payload(e),this.isProd||console.log("GTAG stats: "+(0,l.default)(e)),window.gtag.apply(window,e)},convertGa3FieldsToGa4:function(e){var t=this,a={};return(0,s.default)(e).forEach((function(i){i in t.ga3FieldsToGa4Map?t.ga3FieldsToGa4Map[i]&&(a[t.ga3FieldsToGa4Map[i]]=e[i]):a[i]=e[i]})),a},sendGa3EventOrPageviewToGa4:function(e,t){var a=this.getEventOrPageviewByPayload(t);return"pageview"===a.hitType?this.sendGa3PageviewToGa4(e,a):this.sendGa3EventToGa4(e,a)},sendGa3EventToGa4:function(e,t){var a,i=this.trackerNameToGa4IdMap[e]||(null===(a=this.trackers[e])||void 0===a?void 0:a.id);if(i){var n=this.convertGa3FieldsToGa4(t),o=(n.hitType,n.eventCategory),r=n.eventAction,s=n.eventLabel,l=n.value,u=f(f({},(0,c.default)(n,p)),{},{send_to:i});o&&(u.event_category=o),s&&(u.event_label=s),l&&(u.value=l),r&&this.execGtag(["event",r,u])}else console.error("Invalid tracker name in event: ",e)},sendGa3PageviewToGa4:function(e,t){var a,i=this.trackerNameToGa4IdMap[e]||(null===(a=this.trackers[e])||void 0===a?void 0:a.id),n=this.getGa4TrackerConfig(e);if(i&&n){var o=this.convertGa3FieldsToGa4(t),r=(o.hitType,o.page_location),s=void 0===r?"":r,l=o.page_title,u=void 0===l?document.title:l,d=(0,c.default)(o,g);(!1===n.sendPageview||s)&&this.execGtag(["event","page_view",f(f({page_title:u,page_location:s||this.pageveiewLocation||document.location.href||""},d),{},{send_to:i})])}else console.error("Invalid tracker name in pageview: ",e)},setGa3DataToGa4:function(e,t){var a,i=this.trackerNameToGa4IdMap[e]||(null===(a=this.trackers[e])||void 0===a?void 0:a.id);if(i){var n=(0,h.default)(t,3),o=n[1],r=n[2],c={};c[o]=r,this.execGtag(["config",i,c])}else console.error("Invalid tracker name in set: ",e)},getGa4Cid:function(e){var t,a=this.trackerNameToGa4IdMap[e]||(null===(t=this.trackers[e])||void 0===t?void 0:t.id);return new u.default((function(e){window.gtag("get",a,"client_id",e)}))}}}).call(this,a(2))}},[[323,1,0]]]);  window.gaHandler.isProd = true;
+  window.gaHandler.setPageviewLocation();
+
+  window.ga = function() {
+    window.gaHandler.execGa(Array.prototype.slice.call(arguments, 0));
+  };
+
+  window._gtag = function() {
+    window.gaHandler.execGtag(Array.prototype.slice.call(arguments, 0));
+  }
+
+  if (_sf.app) {
+    ga('create', 'UA-156919089-8', 'savefrom.net', {'userId': _sf.stats.uid});
+    ga('set', 'dimension1', _sf.app);
+    _sf.stats.basicMetricsTracking['t0'] = {events: ['all']};
+    ga('require', 'displayfeatures');
+
+          ga('send', 'pageview');
+      }
+  else {
+    _gtag('config', 'G-YZBZRGCYS9', {cookie_domain: 'savefrom.net', name: 't0', user_properties: {id: _sf.stats.uid}});
+      }
+
+  ga('create', 'UA-7055055-78', 'auto', {'name': 'helper', 'userId': _sf.stats.uid})
+</script>
+
+<script>
+  if (top != self && (!document.referrer || document.referrer.search(/^https?:\/\/(www\.google\.com\/analytics\/web\/|metrika.yandex.ru\/|webvisor\.com\/)/i) !== 0)) {
+    top.location = location;
+  }
+
+  if (_sf.hash && _sf.hash.utm_campaign && _sf.hash.url && _sf.hash.utm_campaign.indexOf('ssyoutube.com') > -1) {
+    _sf.ssyoutube = true;
+    _sf.channel.push('ssyoutube');
+    if (_sf.hash.url == 'http://youtube.com/watch?v=AEIVhBS6baE') {
+      location.href = '/404.php';
+    }
+
+  } else {
+        _sf.channel.push('article');
+    _sf.article = _sf.article || {};
+    _sf.article.type = 'article';
+    _sf.article.id = "1";
+    _sf.article.name = "youtube.com";
+      }
+
+  _sf.stats.yaMetrikaEnabled = false;
+  if (_sf.lang == 'de' || _sf.lang == 'es') {
+    _sf.stats.yaMetrikaEnabled = true;
+  }
+
+  $(function () {
+    (function (name, lang, domain) {
+      if (window.sf && name && lang && domain) {
+        if (lang != sf.cookie.get(name)) {
+          sf.cookie.set(name, lang, 365, domain);
+        }
+      }
+    })('lang', 'es', 'COOKIE_DOMAIN');
+  });
+</script>
+<!--TOP CLEAR-->
+<script>
+  (function () {
+    if (!window._sf || !window.jQuery) {
+      var div = document.createElement('div');
+      var jsErrorBlock = '<div class="wrapper"><div class="b-info b-js-error"><p class="t-sf-logo">Something went wrong. Please, try again.</p><button class="btn_no-border green-btn-3 js-refresh-page" type="button" onClick="window.location.reload();">Refresh</button></div></div>';
+
+      div.innerHTML = jsErrorBlock;
+
+      window.onload = function () {
+        var errorPlacement = document.querySelector('header');
+        var parentErrorPlacement = errorPlacement.parentNode;
+
+        parentErrorPlacement.insertBefore(div, errorPlacement.nextSibling);
+
+        _ga('create', 'UA-7055055-62', 'savefrom.net', 'jsError');
+        _ga('jsError.send', 'event', 'main-page', 'error-window-show', 'TRUE');
+        _ga('jsError.send', 'event', 'main-page', '_sf-ind-error', '');
+      }
+    }
+
+    if (!window.jQuery) {
+      _ga('jsError.send', 'event', 'main-page', 'jquery-error', '');
+    }
+  })();
+</script>
+<script>
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{2:function(e,r,n){"use strict";e.exports=window.$},321:function(e,r,n){"use strict";(function(e){var r=n(0)(n(22));window.extensionVersion={url:"//download.sf-helper.com/",config:{chrome:{url:"chrome/updates-3.xml",dataType:"xml",fn:function(e,r,n){if(n.responseXML){var t=n.responseXML.querySelector('app[appid="mdpljndcmbeikfnlflcggaipgnhiedbl"] > updatecheck');if(t)return t.getAttribute("version")}return null}},firefox:{url:"mozilla/updates.json",dataType:"json",fn:function(e,r,n){var t=["addons","helper-sig@savefrom.net","updates",0];if(e)for(var o=0,a=t.length;o<a;o++){if(!e[t[o]])return null;e=e[t[o]]}return e&&e.version?e.version:null}},opera:{url:"opera/update.json",dataType:"json",fn:function(e,r,n){return e&&e.version?e.version:null}},operaChromium:{url:"opera/update.json",dataType:"json",fn:function(e,r,n){return e&&e.version?e.version:null}},safari:{url:"safari/update.plist",dataType:"xml",fn:function(e,r,n){if(n.responseText){var t=n.responseText.search(/\<key\>\s*CFBundleShortVersionString\s*\<\/key>/i);if(t>0){var o=n.responseText.substr(t).match(/\<string\>\s*([\d\.]+)/i);if(o&&o[1])return o[1]}}return null}},userjs:{url:"chrome/helper.meta.js",dataType:"text",fn:function(e,r,n){if(n.responseText){var t=n.responseText.match(/@version\s+([\d\.]+)/i);if(t&&t[1])return t[1]}}}},formatBrowserName:function(e){var r={chromelite:"chrome",chameleon:"chrome",chromium:"chrome",ff:"firefox","ff-sf":"firefox","opera-chromium":"operaChromium","opera-webkit":"operaChromium",yandex:"operaChromium"};return r[e]?r[e]:0===e.indexOf("userjs-")?"userjs":e},getLast:function(r,n){if(!r)return n(null,r,t);var t=this.formatBrowserName(r.toLowerCase()),o=this.config[t];if(!o)return n(null,r,t);e.ajax({url:this.url+o.url,data:{rnd:(new Date).getTime()+Math.random()},dataType:o.dataType,crossDomain:!0}).then((function(e,a,i){var s=o.fn(e,a,i),u=i.getResponseHeader("Last-Modified");n(s,r,t,u)})).catch((function(e){return _sf.debug&&console.error(e)}))},stringToArray:function(e){var n=e.match(/^(\d+)(?:\.(\d+))?/);if(!n)return null;var t=[(0,r.default)(n[1])];return n.length>2&&t.push((0,r.default)(n[2])),t},compare:function(e,r){return e=this.stringToArray(e),r=this.stringToArray(r),null===e?null===r?0:-1:null===r?1:e[0]!=r[0]?e[0]<r[0]?-1:1:1==e.length?1==r.length?0:-1:1==r.length?1:e[1]!=r[1]?e[1]<r[1]?-1:1:0}}}).call(this,n(2))}},[[321,1,0]]]);
+$(document).on('extension-query', function(event){
+  try
+  {
+    var node = event.target;
+    if (!node || node.nodeType != Node.TEXT_NODE)
+      return;
+
+    var json = $.parseJSON(node.nodeValue);
+    node.parentNode.removeChild(node);
+
+    switch(json.msg)
+    {
+      case 'setBrowserExtension':
+        setBrowserExtension(json.params);
+        break;
+
+      case 'replaceAjaxResult':
+        var btn = document.getElementById(json.btn);
+        sf.result.replaceAjaxResult(json.data, true, true, btn);
+        break;
+
+      case 'showVideoResult':
+        sf.finishRequest(true);
+        sf.videoResult.show(json.video);
+        break;
+    }
+  }
+  catch(err){}
+}, false);
+
+
+function setBrowserExtension(params)
+{
+  if(!params || !params.id || !params.version)
+    return;
+
+  sf.extension.id = params.id;
+  sf.extension.version = params.version;
+  _sf.helper.setExtensionParameters(params);
+
+  var msgCookieName = 'browser_ext_update_msg',
+      cookieName = 'browser_ext',
+      cookieValue = params.id + ' ' + params.version;
+
+  if(!params.enable || params.enable == '0')
+    cookieValue += ' - disabled';
+
+  window.setTimeout(function(){
+    if(window.ga)
+      window.ga('set', 'dimension2', cookieValue);
+  }, 1000);
+
+  if(!sf.cookie.get(cookieName))
+  {
+    sf.cookie.set(cookieName, cookieValue, 1, '.savefrom.net');
+  }
+
+  function setCookie() {
+    sf.cookie.set(msgCookieName, '1', 1, '.savefrom.net');
+  }
+
+  if (sf.extension.id != 'chameleon' && sf.extension.version && !sf.cookie.get(msgCookieName)) {
+    extensionVersion.getLast(params.id, function (version, browser, browserName, date) {
+      if(!version)
+        return;
+
+      if(extensionVersion.compare(version, sf.extension.version) > 0)
+      {
+        if(date)
+        {
+          date = new Date(date);
+          if(date && date.getFullYear() > 2012)
+          {
+            var now = new Date();
+            if(now.getTime() - date.getTime() < 86400000)
+              return;
+          }
+        }
+
+        var updateUrl = '/user.php?utm_source=savefrom&utm_medium=topline&utm_campaign=update_extension';
+        var updateBtn = '<a href="' + updateUrl + '" class="button" target="_blank">Actualizar</a>';
+        var msg = "Su versión de la extensión para navegadores del &quot;menú auxiliar de SaveFrom.net&quot; está obsoleta y podría no funcionar correctamente {button}";
+        msg = msg.replace(/\{version\}/i, sf.extension.version);
+        msg = msg.replace(/\{button\}/i, ' &nbsp; ' + updateBtn);
+        msg = '<img src="/img/extension/icon_24.png" alt=""> &nbsp; ' + msg;
+
+        setTimeout(function(){
+          if(window.ga)
+            ga('send', 'event', 'topline', 'show', 'update_extension');
+
+          showMessage(msg, setCookie);
+        }, 2000);
+      }
+    });
+  }
+}
+</script>
+<!--MAIN FORM CLEAR-->
+<script src="/build/js/savefrom.js?h=4f771ba4.js"></script><script>
+  (function () {
+    if (!window.sf || !window.jQuery) {
+      var div = document.createElement('div');
+      var jsErrorBlock = '<div class="wrapper"><div class="b-info b-js-error"><p class="t-sf-logo">Something went wrong. Please, try again.</p><button class="btn_no-border green-btn-3 js-refresh-page" type="button" onClick="window.location.reload();">Refresh</button></div></div>';
+
+      div.innerHTML = jsErrorBlock;
+
+      window.onload = function () {
+        var errorPlacement = document.querySelector('.downloader-2-part2');
+        var parentErrorPlacement = errorPlacement.parentNode;
+
+        parentErrorPlacement.insertBefore(div, errorPlacement.nextSibling);
+
+        _ga('create', 'UA-7055055-62', 'savefrom.net', 'jsError');
+        _ga('jsError.send', 'event', 'main-page', 'error-window-show', 'TRUE');
+        _ga('jsError.send', 'event', 'main-page', 'sf-ind-error', '');
+      }
+    }
+
+    if (!window.jQuery) {
+      _ga('jsError.send', 'event', 'main-page', 'jquery-error', '');
+    }
+  })();
+</script>
+<script>
+  sf.setLanguage({"lang":"es","wait":"Por favor, espere","result":"Resultado","download":"Descargar","startDownload":"Iniciar descarga","copy":"Copiar","playerPlay":"Reproducir","playerStop":"Detener","link":"Enlace","title":"Título","file":"Archivo","size":"Tamaño","hosting":"Alojamiento","information":"Información","source":"Fuente","duration":"Duración","more":"Más","multiMore":"Buscar más enlaces","linkNotFound":"Enlace de descarga no encontrado.","pluralSeconds":["segundo","segundos"],"pluralParts":["parte","partes"],"findMediaLinks":"Buscar enlaces de archivos multimedia","fileInfoTitle":"Visualizar la información del archivo","copyLinkSuccess":"Se ha copiado al portapapeles el enlace de descarga.","copyLinkFail":"Imposible copiar el enlace al portapapeles.","copyLinksSuccess":"Se han copiado al portapapeles los enlaces de descarga.","copyLinksFail":"Imposible copiar los enlaces al portapapeles.","flashPlayerRequired":"Quizás no tiene instalado <a href=\"https:\/\/get.adobe.com\/flashplayer\/\" rel=\"nofollow\" target=\"_blank\">Adobe Flash Player<\/a>.","dQueueError":"Imposible iniciar la descarga del archivo","dQueueContinue":"¿Desea continuar con la descarga del resto de archivos?","dQueueYes":"Continuar","dQueueNo":"Detener","tblHdrDownload":"Descargar enlaces","tblHdrInformation":"Información","tblHdrFile":"Archivo","tblHdrSize":"Tamaño","error1":"Error: URL no especificada.","error2":"Error: URL especificada no válida.","error3":"Error: código no especificado.","error4":"Por favor, especifique una búsqueda.","error5":"Por favor, especifique dónde buscar.","error20":"Error: elemento %s no encontrado.","player_err1":"Para visualizar este vídeo, necesita obtener los enlaces de descarga.","request_err1":"Error en la solicitud. Inténtelo de nuevo.","request_err2":"Error en la solicitud.","notEnoughPoints1":"No dispone de puntos suficientes para descargar este archivo","notEnoughPoints2":"No dispone de puntos suficientes para descargar los archivos seleccionados","allSites":"all popular websites","helper_lite":"Menú auxiliar","tryAnother":"Intente descargar otro archivo.","video:tryAnother":"Intente descargar otro vídeo.","offer":"Instale {offer} y descargue archivos de cualquier página de {service}.","video:offer":"Instale {offer} y descargue vídeos de cualquier página de {service}.","errorMessages":{"page not found":"El enlace no es válido o la página ha sido eliminada.","restricted access":"Lo sentimos, {service} tiene el acceso restringido a esta página.","page without files":"No hemos podido encontrar archivos en esta página.","video:page without files":"No hemos podido encontrar vídeos en esta página.","private page":"Lo sentimos, no podemos descargar archivos de páginas de usuario personales.","video:private page":"Lo sentimos, no podemos descargar vídeos de páginas de usuario personales."},"videoDownloadIssue":"¿Por qué el video se está reproduciendo en lugar de descargarse en SaveFrom?","downloadHint":"Para descargar un video haga: <b>clic derecho -> Guardar como...<\/b> o, en una ventana nueva, presione <b>\"CTRL + S\"<\/b> para guardar el video.","form_preloader_text":"Procesando el enlace para descargar. Por favor, no salga de esta página.","goBack":"Regresa","submit":"Enviar","captchaSuccessMessage":"El código ha sido verificado.","captchaErrorMessage":"Se ha producido un error. Por favor, inténtelo de nuevo.","installHelper":"Instalar Asistente de SaveFrom.net","helperFull":"Menú auxiliar de SaveFrom.net","installUvd":"Install Ummy Video Downloader","recommendProduct":{"helper":"Le recomendamos que instale la <a href=\"{href}\">extensión del menú auxiliar de SaveFrom.net<\/a> para efectuar descargas desde <b>{service}<\/b> con un solo clic.","televzr":"Le recomendamos que instale la <a href=\"{href}\">Televzr Downloader<\/a> para efectuar descargas desde <b>{service}<\/b> con un solo clic."}});
+  sf.linksListToken = "#__savefrom.net_links__";
+  sf.jsonToken = "#json#";
+  sf.allowedHosts = [];
+</script>
+<script src="/build/js/mainForm.js?h=af9b3f86.js"></script><script>
+
+  try {
+    localStorage.removeItem('video_history');
+  } catch (error) {
+  }
+
+  $('body').one('submit', '.sf-form', function () {
+    sf.videoPlayerHTML5.loadLibraries();
+  });
+</script>
+<!--FORM CLEAR-->
+<script src="/build/js/mainFormOutput.js?h=f919a508.js"></script><script>
+  mainFormOutput("Introduzca la URL");
+</script>
+<script src="/build/js/jsTemplates.js?h=3ce823cd.js" rel="nofollow"></script>
+<script>
+  appendJsTemplates(
+    {"install":"Instalar","more":"M\u00e1s","ext_download_in_1_click":"Descargar de {{:service}} con un solo clic","vdp_download_audio_video":"Use <a href=\"{{:href}}\" class=\"ga_track_events\" target=\"_blank\" data-ga-event=\"{{:event_attr}}\">Video&nbsp;Downloader&nbsp;Pro<\/a> para guardar el video y el audio de esta p\u00e1gina","get_televzr_banner_title":"Obtenga la aplicaci\u00f3n Televzr","get_televzr_banner_text":"Para descargar m\u00e1s de 700 recursos","get_televzr_banner_learn_more":"Conozca m\u00e1s","ext_recommend_use_helper":"Le recomendamos que instale la <a href=\"{{:href}}\" class=\"ga_track_events bold\" target=\"_blank\" data-ga-event=\"{{:event_attr}}\">extensi\u00f3n del men\u00fa auxiliar de SaveFrom.net<\/a> para efectuar descargas desde <b>{{:service}}<\/b> con un solo clic.","ext_recommend_use_helper_ff":"Instale el navegador <a target=\"_blank\" href=\"{{:href2}}\">FireFox mobile<\/a> junto con la extensi\u00f3n <a target=\"_blank\" href=\"{{:href}}\" class=\"ga_track_events bold\" target=\"_blank\" data-ga-event=\"{{:event_attr}}\">SaveFrom.net helper<\/a> para descargar desde <b>{{:service}}<\/b> con un clic","ext_recommend_use_helper_yb":"Install <a target=\"_blank\" href=\"{{:href}}\" class=\"ga_track_events bold\" target=\"_blank\" data-ga-event=\"{{:event_attr}}\">Yandex Browser<\/a> with  SaveFrom.net helper extension and download from <b>{{:service}}<\/b> in&nbsp;1&nbsp;click","televzr_recommend_use_televzr":"Le recomendamos que instale la <a href=\"{{:href}}\" class=\"ga_track_events bold\" target=\"_blank\" data-ga-event=\"{{:event_attr}}\">Televzr Downloader<\/a> para efectuar descargas desde <b>{{:service}}<\/b> con un solo clic.","copy_link":"Copy and paste the link into your browser address bar or download manager:","copy":"Copiar"}  );
+</script>
+<!--/FORM CLEAR-->
+
+<script src="/build/js/basicMetricsTracking.js?h=f881c989.js"></script><script src="/build/js/experimentLoader.js?h=3fe44871.js"></script>
+<script>
+  $(function () {
+    const timeoutDuration = _sf.mobile ? 0 : 100;
+    setTimeout(function () {
+      window.newMainForm.setForm();
+    }, timeoutDuration);
+  });
+</script>
+<script>
+  if (_sf.app) {
+    $('.sf-form input[name="app"]').val(_sf.app);
+  }
+  if (_sf.os.name == 'iOS' && _sf.browser.inApp) {
+    $('.sf-form').append($('<input type="hidden" name="ios_app_mode" value="1">'));
+  }
+  $('.sf-form').append($('<input type="hidden" name="country" value="' + (_sf.country || '') + '">'));
+  $('.sf-form').append($('<input type="hidden" name="os" value="' + (_sf.os.name || '') + '">'));
+  $('.sf-form').append($('<input type="hidden" name="browser" value="' + (_sf.browser.name || '') + '">'));
+  $('.sf-form').append($('<input type="hidden" name="channel" value="' + (_sf.channel || '') + '">'));
+</script>
+<!--/MAIN FORM CLEAR-->
+<!--ARTICLE-->
+<script>
+  $(function(){
+    $('section.feature-slider').each(function(){
+      if ($('.text .step', this).length > 1) {
+        var arrow = (_sf.lang == 'ar') ? '←' : '→';
+        $('<a href="#" class="more">más ' + arrow + '</a>').appendTo(this);
+      }
+    }).on('click', '.more', function(evt){
+      var $box = $(this).closest('.feature-slider');
+      if(!$box[0])
+        return;
+
+      var $cImg = $('.img .current', $box),
+          $cText = $('.text .current', $box);
+
+      if(!$cImg[0] || !$cText[0])
+        return;
+      if($('.img picture', $box)[0]) {
+        var $nImg = $cImg.next('.img picture');
+      } else {
+        var $nImg = $cImg.next('.img img');
+      }
+      var $nText = $cText.next('.step');
+
+      if(!$nImg[0]) {
+        if($('.img picture', $box)[0]) {
+          $nImg = $('.img picture', $box).first();
+        } else {
+          $nImg = $('.img img', $box).first();
+        }
+      }
+
+      if(!$nText[0])
+        $nText = $('.step', $box).first();
+
+      if(!$nImg[0] || !$nText[0])
+        return;
+
+      swap($cImg, $nImg);
+      swap($cText, $nText);
+      return false;
+    });
+
+    function swap($cur, $next) {
+      $cur.removeClass('current');
+      $next.addClass('current');
+    }
+  });
+</script>
+      <script>
+    function startImagesLoading() {
+      var images = document.getElementsByTagName('img');
+      for (var i = 0; i < images.length; i++) {
+        if (images[i].getAttribute('data-src')) {
+          images[i].setAttribute('src', images[i].getAttribute('data-src'));
+        }
+      }
+    }
+
+    window.addEventListener('load', startImagesLoading);
+  </script>
+  <script>
+    // analytics for article 16 ( more information articles.php num 16)
+    const store = document.querySelectorAll('[data-action="store"]')
+    if (store.length > 0) {
+      ga('create', 'UA-67738130-21', 'savefrom.net', 'articleYtDownloader');
+      ga('articleYtDownloader.send', 'event', 'start');
+      store.forEach((element, index) => {
+        element.addEventListener('click', () => {
+          ga('articleYtDownloader.send', 'event', 'click_download_app', 'getapps', `${index + 1}`);
+        })
+      })
+      document.querySelectorAll('[data-pos]').forEach((element, index) => {
+        element.addEventListener('click', () => {
+          ga('articleYtDownloader.send', 'event', 'click_download_app', 'apk', `${index + 1}`);
+        })
+      })
+    }
+  </script>
+    <script src="/build/js/assetsSfMain.js?h=9fa7904c.js"></script>
+
+<!--CONTENT END-->
+  <script src="/build/js/h1HeaderModifier.js?h=4422d6ff.js"></script><!--FOOTER-->
+<script>
+  $(function () {
+    // menu
+    $('body').on('click', 'header .menu-btn', function () {
+      $('#nav_top').toggleClass('active');
+    });
+
+    var notyf = new Notyf();
+    var clipboard = new Clipboard('.clipboard-btn');
+    clipboard.on('success', function (e) {
+      e.clearSelection();
+
+      notyf.success({
+        message: 'Copiado',
+        ripple: false,
+        duration: 3000,
+      });
+    });
+    clipboard.on('error', function (e) {
+      notyf.error({
+        message: 'No se pudo copiar',
+        ripple: false,
+        duration: 3000,
+      });
+    });
+  });
+
+  $('.spoiler-box:not(.open)').hide();
+</script>
+
+  <script>
+    (function () {
+      if (_sf && _sf.stats) {
+        _sf.stats.yaMetrikaOptions = _sf.stats.yaMetrikaOptions || {};
+        _sf.stats.yaMetrikaOptions.webvisor = false;
+      }
+    })();
+  </script>
+      <!-- Yandex.Metrika counter -->
+    <script type="text/javascript">
+    function yandexMetrika() {
+      if (_sf && _sf.stats && _sf.stats.yaMetrikaEnabled === false) {
+        if(top == self) {
+          return;
+        }
+
+        if (!document.referrer || document.referrer.search(
+            /^https?:\/\/(metrika.yandex.ru\/|webvisor\.com\/)/i) !== 0) {
+          return;
+        }
+      }
+
+      if (_sf.stats.yaMetrikaStart) {
+        return;
+      }
+
+      _sf.stats.yaMetrikaStart = true;
+
+      var options = {
+        id: 10041220,
+        webvisor: true,
+        clickmap: true,
+        trackLinks: true,
+        accurateTrackBounce: true
+      };
+
+      if (_sf.stats.yaMetrikaOptions && typeof _sf.stats.yaMetrikaOptions == 'object') {
+        for (var i in _sf.stats.yaMetrikaOptions) {
+          if (i != 'id' && _sf.stats.yaMetrikaOptions.hasOwnProperty(i)) {
+            options[i] = _sf.stats.yaMetrikaOptions[i];
+          }
+        }
+      }
+
+      
+      (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+          try {
+            w.yaCounter10041220 = new Ya.Metrika(options);
+          } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+          d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+      })(document, window, "yandex_metrika_callbacks");
+    }
+    yandexMetrika();
+    </script>
+    <noscript><div><img src="//mc.yandex.ru/watch/10041220" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    <!-- /Yandex.Metrika counter -->
+
+<script>
+  $('body').on('click sendstats', 'a.ga_track_events', function (event) {
+    gaHandler.trackNode(this);
+  });
+</script>
+
+<script src="/build/js/lang_selector.js?h=03eb41ca.js"></script>
+<script>
+(function() {
+  if (!_sf.app || typeof sfApp === 'undefined') {
+    return;
+  }
+
+  $('#sf_form').append($('<input type="hidden" name="app"/>').val(_sf.app));
+  $('body').addClass('sfApp').on('click', '.link.link-download', function(e){
+    var url = $(this).attr('href');
+    if(!url || url.search(/^https?:\/\//i) == -1)
+      url = this.getAttribute('data-copy');
+
+    var fileName = this.getAttribute('download') || '';
+    if (sfApp.download(url, fileName)) {
+      e.preventDefault();
+    }
+  });
+
+  $(function(){
+    var firstrunKey = _sf.app + '-firstrun';
+    var firstrunValue;
+
+    try {
+      firstrunValue = localStorage.getItem(firstrunKey);
+
+      if (!firstrunValue) {
+        localStorage.setItem(firstrunKey, '1');
+      }
+    } catch (error) {}
+
+    if (!firstrunValue && window.gaHandler) {
+      window.gaHandler.track('send;event;firstrun;' + _sf.app + ';' + sfApp.version());
+    }
+  });
+})();
+</script>

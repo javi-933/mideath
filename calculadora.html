@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora Básica</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background: linear-gradient(to bottom, #000000, #ffffff); /* Degradado de negro a blanco */
+        }
+        .calculator {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            border: 1px solid #ccc;
+            padding: 20px;
+            border-radius: 10px;
+            background-color: #b3b3b3; /* Color plomo */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        #display {
+            width: 100%;
+            height: 50px;
+            font-size: 24px;
+            text-align: right;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            background-color: #f0f0f0;
+            box-sizing: border-box;
+        }
+        .button {
+            width: 70px;
+            height: 70px;
+            font-size: 24px;
+            margin: 5px;
+            cursor: pointer;
+            background-color: #e0e0e0;
+            border: none;
+            border-radius: 5px;
+            transition: background-color 0.2s;
+        }
+        .button:active {
+            background-color: #ccc;
+        }
+        .row {
+            display: flex;
+            justify-content: center;
+            width: 100%;
+        }
+        .row:last-child .button {
+            width: calc(100% / 3 - 10px);
+        }
+    </style>
+</head>
+<body>
+    <div class="calculator">
+        <input type="text" id="display" disabled>
+        <div class="row">
+            <button class="button" onclick="clearDisplay()">C</button>
+            <button class="button" onclick="appendToDisplay('/')">/</button>
+            <button class="button" onclick="squareNumber()">x²</button>
+            <button class="button" onclick="deleteLast()">←</button>
+        </div>
+        <div class="row">
+            <button class="button" onclick="appendToDisplay('7')">7</button>
+            <button class="button" onclick="appendToDisplay('8')">8</button>
+            <button class="button" onclick="appendToDisplay('9')">9</button>
+            <button class="button" onclick="appendToDisplay('-')">-</button>
+        </div>
+        <div class="row">
+            <button class="button" onclick="appendToDisplay('4')">4</button>
+            <button class="button" onclick="appendToDisplay('5')">5</button>
+            <button class="button" onclick="appendToDisplay('6')">6</button>
+            <button class="button" onclick="appendToDisplay('+')">+</button>
+        </div>
+        <div class="row">
+            <button class="button" onclick="appendToDisplay('1')">1</button>
+            <button class="button" onclick="appendToDisplay('2')">2</button>
+            <button class="button" onclick="appendToDisplay('3')">3</button>
+            <button class="button" onclick="calculateResult()">=</button>
+        </div>
+        <div class="row">
+            <button class="button" style="width: calc(100% - 80px);" onclick="appendToDisplay('0')">0</button>
+            <button class="button" onclick="appendToDisplay('.')">.</button>
+        </div>
+    </div>
+
+    <script>
+        function appendToDisplay(value) {
+            document.getElementById('display').value += value;
+        }
+
+        function clearDisplay() {
+            document.getElementById('display').value = '';
+        }
+
+        function deleteLast() {
+            var display = document.getElementById('display').value;
+            document.getElementById('display').value = display.slice(0, -1);
+        }
+
+        function calculateResult() {
+            var display = document.getElementById('display').value;
+            try {
+                document.getElementById('display').value = eval(display);
+            } catch (error) {
+                document.getElementById('display').value = 'Error';
+            }
+        }
+
+        function squareNumber() {
+            var display = document.getElementById('display').value;
+            if (display !== '') {
+                try {
+                    document.getElementById('display').value = Math.pow(eval(display), 2);
+                } catch (error) {
+                    document.getElementById('display').value = 'Error';
+                }
+            }
+        }
+    </script>
+</body>
+</html>

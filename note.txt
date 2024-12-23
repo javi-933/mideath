@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Death Note</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Raleway', sans-serif;
+            background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('C:/Users/PC/Desktop/diseño/fon8.jpg') no-repeat center center fixed;
+            background-size: cover;
+            color: #fff;
+            scroll-behavior: smooth; /* Habilita el desplazamiento suave */
+        }
+
+        header {
+            background-color: rgba(0, 0, 0, 0.8);
+            padding: 20px;
+            position: fixed;
+            top: 0;
+            width: 100%;
+            z-index: 1000;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        h1 {
+            margin: 0;
+            font-size: 2rem;
+            text-align: center;
+        }
+
+        nav ul {
+            list-style: none;
+            display: flex;
+            justify-content: center;
+            padding: 0;
+            margin: 10px 0 0;
+        }
+
+        nav ul li {
+            margin: 0 10px;
+        }
+
+        nav ul li a {
+            text-decoration: none;
+            color: #fff;
+            font-weight: bold;
+            transition: color 0.3s;
+        }
+
+        nav ul li a:hover {
+            color: #f00;
+        }
+
+        .section {
+            padding: 100px 20px;
+            text-align: center;
+            margin-top: 80px; /* Asegura que el header fijo no tape las secciones */
+            scroll-margin-top: 80px; /* Ajusta el desplazamiento */
+        }
+
+        .carousel img {
+            width: 100%;
+            max-height: 400px;
+            object-fit: cover;
+            margin: 10px 0;
+        }
+
+        .video-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            justify-content: center;
+        }
+
+        iframe {
+            border: none;
+        }
+
+        .back-to-top {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 10px 20px;
+            background: #f00;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background 0.3s;
+        }
+
+        .back-to-top:hover {
+            background: #900;
+        }
+
+        footer {
+            background-color: rgba(0, 0, 0, 0.8);
+            text-align: center;
+            padding: 20px;
+            position: relative;
+        }
+
+        @media (max-width: 768px) {
+            nav ul {
+                flex-direction: column;
+                text-align: center;
+            }
+
+            .video-container iframe {
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <header id="home">
+        <div class="container">
+            <h1>Death Note</h1>
+            <nav>
+                <ul>
+                    <li><a href="#about">Acerca de</a></li>
+                    <li><a href="#gallery">Galería</a></li>
+                    <li><a href="#videos">Videos</a></li>
+                    <li><a href="#google-sheet">Tabla de información</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <!-- About Section -->
+    <section id="about" class="section">
+        <div class="container">
+            <h2>Acerca de Death Note</h2>
+            <p>Death Note (????? Desu Noto?) es una serie de manga escrita por Tsugumi Oba e ilustrada por Takeshi Obata, y cuya adaptación a anime fue dirigida por Tetsuro Araki. La historia se centra en Light Yagami, un estudiante de escuela secundaria. Un día, encuentra un cuaderno con poderes sobrenaturales llamado «Death Note», con el cual es capaz de matar personas si se escriben los nombres de estas en él, a la vez que si el portador visualiza mentalmente la cara de quien quiere asesinar.9? Light, percatándose del potencial del cuaderno, intenta eliminar a todos los criminales y crear un mundo donde no exista la maldad; sin embargo, un misterioso detective privado que se hace llamar L, famoso mundialmente por resolver grandes casos en el pasado, tratará de frustrar sus planes.10?
+
+                La serie está basada en un one-shot que fue difundido por Shueisha para la revista Shonen Jump,11? y se generalizó nuevamente como una inclusión en el volumen trece,12? «How to Read», el cual es una guía que contiene datos relativos a la franquicia, incluyendo el perfil de todos los personajes principales.13? El manga comenzó a publicarse en diciembre de 2003 por la editorial Shueisha, en la revista semanal japonesa Shonen Jump, hasta su final en mayo de 2006 con el duodécimo volumen,14? llegando a recolectar ciento ocho capítulos. Más tarde, la historia del manga fue adaptada a un anime producido por Madhouse, hasta que llegó a su final con un total de treinta y siete episodios.15? El anime se emitió en Japón desde el 3 de octubre de 2006 hasta el 26 de junio de 2007 por la cadena televisiva Nippon Television. Asimismo, la obra ha sido adaptada a tres películas en imagen real,16? dos novelas ligeras y múltiples videojuegos creados por Konami para Nintendo DS. En 2006, Oba creó un artbook llamado Blanc et Noir, el cual contiene ilustraciones sobre la serie, siendo publicado oficialmente por Shueisha;17? asimismo, se han creado varios libros suplementarios sobre la franquicia. Más tarde, se creó un nuevo one-shot que narra los sucesos que ocurren dos años después del final del manga original, al igual que dos episodios especiales llamados «Death Note Rewrite: The Visualizing God» y «Death Note Rewrite 2: L's Successors», los cuales son una especie de resúmenes de la primera parte narrada por Ryuk y la segunda parte, narrada por L.18?19? Las versiones en español del manga fueron publicadas por la editorial Editores de Tebeos —antigua Ediciones Glénat— y posteriormente Norma Editorial en España,20?21? por Grupo Editorial Vid y Panini Manga en México,22? por Larp Editores,23? por Ivrea en Argentina,24? y posteriormente por Panini Cómics en Colombia.25?
+                
+                Varias publicaciones de manga, anime y otros medios han elogiado y, a su vez, criticado la serie. Ha sido reconocido a nivel internacional y ha sido catalogado como uno de los animes más populares de la historia, además de haber ganado millones de seguidores alrededor del mundo. Aun cuando se ha señalado que su argumento resulta entretenido para las audiencias, Death Note fue prohibido en China debido a que los niños modificaban sus cuadernos en semejanza al Death Note.26</p>
+            <a href="#home" class="back-to-top">Volver al inicio</a>
+        </div>
+    </section>
+
+    <!-- Gallery Section -->
+    <section id="gallery" class="section">
+        <div class="container">
+            <h2>Galería</h2>
+            <div class="carousel">
+                <marquee behavior="scroll" direction="left" scrollamount="5">
+                    <img src="C:/Users/PC/Desktop/diseño/fon.jpg" alt="Light Yagami">
+                    <img src="C:/Users/PC/Desktop/diseño/fon1.jpg" alt="L">
+                    <img src="C:/Users/PC/Desktop/diseño/fon3.jpg" alt="Ryuk">
+                    <img src="C:/Users/PC/Desktop/diseño/fon4.jpg" alt="Light Yagami">
+                    <img src="C:/Users/PC/Desktop/diseño/fon5.jpg" alt="L">
+                    <img src="C:/Users/PC/Desktop/diseño/fon6.jpg" alt="Ryuk">
+                    <img src="C:/Users/PC/Desktop/diseño/fon7.jpg" alt="Ryuk">
+                </marquee>
+            </div>
+            <a href="#home" class="back-to-top">Volver al inicio</a>
+        </div>
+    </section>
+
+    <!-- Videos Section -->
+    <section id="videos" class="section">
+        <div class="container">
+            <h2>Videos</h2>
+            <div class="video-container">
+                <iframe width="560" height="315" src="https://youtu.be/wOKmqDwdvIw?si=23aEZzFigM8bgShu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                <iframe width="560" height="315" src="https://youtu.be/mX9BwDfXzNg?si=7kW_esdiNng-r01x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            </div>
+            <a href="#home" class="back-to-top">Volver al inicio</a>
+        </div>
+    </section>
+
+    <!-- Google Sheet Section -->
+    <section id="google-sheet" class="section">
+        <div class="container">
+            <h2>Tabla de información</h2>
+            <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ_B2C8ekn-Tr0iHeDdd-7F24m7E7kAIT0xPaoAntaVqkSuZPuspl3kuhH1f2NA73uzPwZhVfs-lP2i/pubhtml" width="100%" height="400"></iframe>
+            <a href="#home" class="back-to-top">Volver al inicio</a>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2024 Página de Javier Mantilla de Death Note</p>
+    </footer>
+
+    <!-- Smooth Scroll Script -->
+    <script>
+        document.querySelectorAll('.back-to-top').forEach(button => {
+            button.addEventListener('click', function (event) {
+                event.preventDefault();
+                document.querySelector('#home').scrollIntoView({
+                    behavior: 'smooth'
+                });
+            });
+        });
+    </script>
+</body>
+</html>
